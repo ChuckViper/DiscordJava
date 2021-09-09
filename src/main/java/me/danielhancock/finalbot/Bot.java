@@ -15,7 +15,7 @@ public class Bot {
         CommandClientBuilder builder;
         builder = new CommandClientBuilder();
         builder.setPrefix("*");
-        builder.setOwnerId("137826631531102208");
+        builder.setOwnerId("DISCORDBOTTOKEN");
         builder.setHelpWord("helpme");
         builder.setActivity(Activity.playing("in a vat of redundancy"));
 
